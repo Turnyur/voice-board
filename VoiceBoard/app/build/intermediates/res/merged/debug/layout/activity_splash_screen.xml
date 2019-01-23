@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_splash_screen"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="1dp"
+    android:paddingLeft="1dp"
+    android:paddingRight="1dp"
+    android:paddingTop="1dp"
+    tools:context="info.androidhive.dano_notice_board.SplashScreen"
+    android:orientation="vertical"
+    android:background="@drawable/bes2">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView"
+        android:fitsSystemWindows="false"
+        android:scaleType="fitCenter"
+        android:src="@drawable/splash_img1" />
+
+    <TextView
+        android:text=" Voice Based Notice Board "
+        android:layout_width="match_parent"
+        android:id="@+id/textView"
+        android:background="@drawable/bg2"
+        android:textSize="25sp"
+        android:textColor="@color/green"
+        android:padding="5dp"
+        android:layout_height="80dp"
+        android:gravity="center" />
+
+    <TextView
+        android:text="EZEH OKWUDILICHUKWU"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView2"
+        android:padding="5dp"
+        android:textSize="24sp"
+        android:textColor="@color/green"
+        android:textStyle="normal|bold"
+        android:gravity="center" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView5"
+        android:scaleType="fitCenter"
+        android:src="@drawable/splash_mg2" />
+
+</LinearLayout>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Voice Notice Board</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="speech_prompt">Waiting for announcement&#8230;</string>
+    <string name="speech_not_supported">Sorry! Your device doesn\'t support Voice input</string>
+    <string name="tap_on_mic">Tap to make announcement</string>
+    <string name="proj_title">Voice Based Electronic Notice Board</string>
+    <string name="proj_student">EZEH OKWUDILICHUKWU (/13/27273)</string>
+
+</resources>

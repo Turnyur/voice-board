@@ -1,0 +1,7 @@
+#Mon Jul 23 13:09:48 WAT 2018
+base.0=E\:\\transition\\officIT Report\\Scheduled Work\\dano\\VoiceBoard\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_e6c66385bfb7ffb799f1671063747a93441df90a
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=E\:\\transition\\officIT Report\\Scheduled Work\\dano\\VoiceBoard\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_53ec95718687a2ade8c9c4a0a58691fd366c8ab0\\classes.dex
+base.1=E\:\\transition\\officIT Report\\Scheduled Work\\dano\\VoiceBoard\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_53ec95718687a2ade8c9c4a0a58691fd366c8ab0
+file.0=E\:\\transition\\officIT Report\\Scheduled Work\\dano\\VoiceBoard\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_e6c66385bfb7ffb799f1671063747a93441df90a\\classes.dex

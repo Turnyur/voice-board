@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#ffffff</color>
+    <color name="bg_gradient_start">#FD1124</color>
+
+    <color name="bg_gradient_end">#FD114A</color>
+    <color name="blue">#600A58FF</color>
+    <color name="green">#80FF19</color>
+    <color name="invisible">#00000000</color>
+    <color name="greenishBluish"> #00BA96</color>
+    <color name="purple"> #E20093</color>
+</resources>
