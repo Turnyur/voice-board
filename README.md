@@ -21,3 +21,17 @@ The Microcontroller code can be found [here](https://github.com/Turnyur/voice-bo
 The hardware part of the system is shown below  
 
 ![alt text](https://github.com/Turnyur/voice-board/blob/master/3ba9dfb9-c91c-4b38-a8ce-58cdc92ff84f.jpg)  
+
+# Technologies
+
+* Java
+* Android
+* Embedded C
+* Bluetooth
+* Voice Recognition
+* etc
+
+
+# Author 
+
+## Umah Chukwudi Williams
